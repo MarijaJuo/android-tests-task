@@ -62,15 +62,24 @@ it('Button 1 should change color when clicked', async () => {
         await expect(isSubheaderAfterToggle).toBe(false)
     })
 
- it.only('Button 5 - should reset app state', async () => {
-     const headerBefore = await HomeScreen.getHeaderText()
-     const button2Before = await HomeScreen.getButton2Desc()
-     const button1BeforeColor = await HomeScreen.getButton1Color()
+ it('Button 5 - should reset app state', async () => {
+     const initialState = {
+         header: await HomeScreen.getHeaderText(),
+         button2: await HomeScreen.getButton2Desc(),
+         button1Color: await HomeScreen.getButton1Color(),
+         subheader: await HomeScreen.subheader.isExisting()
+     }
      await HomeScreen.clickButton1()
      await HomeScreen.clickButton2()
+     await HomeScreen.clickButton3()
+     await HomeScreen.clickButton4()
      await HomeScreen.clickButton5()
-     await expect(await HomeScreen.getHeaderText()).toEqual(headerBefore)
-     await expect(await HomeScreen.getButton2Desc()).toEqual(button2Before)
-     await expect(await HomeScreen.getButton1Color()).toEqual(button1BeforeColor)
+     const stateAfterReset = {
+         header: await HomeScreen.getHeaderText(),
+         button2: await HomeScreen.getButton2Desc(),
+         button1Color: await HomeScreen.getButton1Color(),
+         subheader: await HomeScreen.subheader.isExisting()
+     }
+     await expect(stateAfterReset).toEqual(initialState)
  })
 })
