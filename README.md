@@ -31,7 +31,7 @@ npm run android
 
 ## Step 6: Start Appium server
 
-Appium
+appium
 
 ## Step 7: Run tests with Wdio in separate terminal window
 
@@ -43,5 +43,4 @@ You've successfully run and modified your tests
 
 # Troubleshooting
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-(https://appium.readthedocs.io/en/latest/en/writing-running-appium/other/troubleshooting/) page.
+- [Appium Troubleshooting](https://appium.readthedocs.io/en/latest/en/writing-running-appium/other/troubleshooting/)
