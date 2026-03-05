@@ -1,0 +1,21 @@
+# ninja log v5
+8	264	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+111	14584	7943414229934806	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/18c79e5b631901c0b5e00ecba9e1d60c/renderer/components/safeareacontext/States.cpp.o	1bb6aa73124821ba
+62	15604	7943414240676919	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4127fefeecd15c50569876120c4a225f/components/safeareacontext/EventEmitters.cpp.o	f60da6a66813661d
+98	18319	7943414267788760	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f434223c47186cef5a5dad69709b16dd/source/codegen/jni/safeareacontext-generated.cpp.o	4e166bc778a2077b
+16	21716	7943414300840844	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9218c69e6f527e43
+28	22340	7943414307769974	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6fb7b75bce01d01f4443f9e158b8d568/safeareacontext/RNCSafeAreaViewState.cpp.o	f95ca57ceff7d318
+86	22952	7943414314193950	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4127fefeecd15c50569876120c4a225f/components/safeareacontext/ShadowNodes.cpp.o	8d159f7af49ef236
+74	24965	7943414334074527	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/18c79e5b631901c0b5e00ecba9e1d60c/renderer/components/safeareacontext/Props.cpp.o	b5c641ee84817710
+50	26258	7943414346341542	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a8fba69b945217deb883c2738695336d/safeareacontext/ComponentDescriptors.cpp.o	218e5d4008e59270
+39	26897	7943414353554622	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/6fb7b75bce01d01f4443f9e158b8d568/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	426513177f5826c9
+26898	27305	7943414357570130	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/build/intermediates/cxx/Debug/e2428372/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	4b508d7dbc858c31
+3	30153	7943414385588376	CMakeFiles/appmodules.dir/C_/Users/TestAMJ/StudioProjects/SampleApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d61b5db1de8ec6ac
+30154	30468	7943414389354228	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/build/intermediates/cxx/Debug/e2428372/obj/armeabi-v7a/libappmodules.so	67222b6622ceaa2c
+4	39	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+3	37	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+5	47	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+4	106	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+2	24	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+3	23	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
+2	21	0	C:/Users/TestAMJ/StudioProjects/SampleApp/android/app/.cxx/Debug/e2428372/armeabi-v7a/CMakeFiles/cmake.verify_globs	995d0568b552b0a4
